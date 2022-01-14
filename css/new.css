@@ -1,0 +1,22 @@
+    .detailBoxNew ul li a {
+        color: #ff6360;
+        text-decoration: none;
+    }
+    
+    .detailBoxNew ul {
+        margin-left: 25px;
+        /* padding-left: 50px; */
+        width: 1200px;
+        padding-top: 20px;
+        padding-left: 40px;
+        font-size: 18px;
+    }
+    
+    .detailBoxNew ul li {
+        height: 50px;
+    }
+    
+    .detailBoxNew ul li a:hover {
+        height: 50px;
+        color: red;
+    }

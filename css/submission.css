@@ -1,0 +1,13 @@
+.detailBoxSubmission p {
+    font-size: 16px;
+    line-height: 35px;
+}
+
+.detailBoxSubmission p a {
+    text-decoration: none;
+    color: #ff6360;
+}
+
+.detailBoxSubmission p a:hover {
+    color: red;
+}
