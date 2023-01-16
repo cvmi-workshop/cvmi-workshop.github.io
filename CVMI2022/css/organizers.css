@@ -1,0 +1,16 @@
+.detailBoxOrganizers p {
+    margin-top: 30px;
+    line-height: 35px;
+}
+
+.detailBoxOrganizers p strong {
+    color: #ff6360;
+}
+
+.detailBoxOrganizers p a {
+    text-decoration: none;
+}
+
+.detailBoxOrganizers p a strong:hover {
+    color: red;
+}
