@@ -82,11 +82,34 @@
 	<!--	<strong> Abstract:</strong> Cell images contain a vast amount of quantifiable information about the status of the cell: for example, whether it is diseased, whether it is responding to a drug treatment, or whether a pathway has been disrupted by a genetic mutation. We extract hundreds of features of cells from images. Just like transcriptional profiling, the similarities and differences in the patterns of extracted features reveal connections among diseases, drugs, and genes. Improving this pipeline is an active area of research, from feature extraction to batch correction to quality control to assessing similarities.
 
 We are harvesting similarities in image-based profiles to identify, at a single-cell level, how diseases, drugs, and genes affect cells, which can uncover small molecules’ mechanism of action, discover gene functions, predict assay outcomes, discover disease-associated phenotypes, identify the functional impact of disease-associated alleles, and find novel therapeutic candidates. As part of the JUMP-Cell Painting Consortium (Joint Undertaking for Morphological Profiling-Cell Painting) we are aiming to establish experimental and computational best practices for image-based profiling (https://jump-cellpainting.broadinstitute.org/results) and produce the world’s largest public Cell Painting gene/compound image resource, with 140,000 perturbations in five replicates, to be released November 2022. With these data and new technologies like Pooled Cell Painting and variants of the assay like LipocyteProfiler and CardioProfiler, we hope to bring drug discovery-accelerating applications to practice.
-		</p>	-->
+		</p>	
 		<strong>Speaker Bio:</strong>
                 <span>Inti Zlobec holds the position of Professor (Extraordinarius) of Digital Pathology at the Institute of Pathology, University of Bern, Switzerland. She graduated with a PhD degree in Experimental Pathology, from McGill University, Montreal, Canada in 2007 before completing a post-doctoral fellowship at the Institute of Pathology, University Hospital Basel, where she conducted tissue-based research in the field of colorectal cancer using biostatistical models. After habilitating in 2010, she received a position at the Institute of Pathology, University of Bern, where she established and led the Translational Research Unit (TRU) and later the Tissue Bank Bern (TBB). Inti Zlobec became Associate Professor in 2014. Now, she leads an inter-disciplinary research group of students and researchers using artificial intelligence and machine learning as tools to study pathology images along with other data types to discover and validate novel prognostic and predictive biomarkers for colorectal cancer patients. Inti Zlobec is a member of the Executive Team of the Center for Artificial Intelligence in Medicine (CAIM) of the University of Bern, Co-Founder and President of the Swiss Consortium for Digital Pathology (SDiPath) and Chair of the European Society of Pathology (ESP) Working Group IT.
                 </span>
-            </div>
+            </div> -->
+
+
+            <hr style="height:1px;border:none;border-top:1px solid #555555;" />
+            <div>
+
+		<p>  <strong>Talk Title:</strong> Machine learning challenges in spatial single cell omics analysis </p>
+	 		<strong>Start Time: </strong><span>8:40 AM CDT</span><br>	-->
+                <strong>Speaker:</strong>
+                <span>Fabian Theis, Professor, Technische Universität München. </span><strong></strong> <br>
+                <p><center>
+		<img class="img-responsive" alt="" src="./img/images/Fabian.jpg" width="200" height="230">
+		</center></p>
+		<strong> Abstract:</strong> Methods for profiling RNA and protein expression in a spatially resolved manner are rapidly evolving, making it possible to comprehensively characterize cells and tissues in health and disease. The resulting large-scale and complex multimodal data sets raise interesting computational and machine learning challenges, from QC & storage to actual analysis. For instance what is the best description of a local cell neighborhood, how do we find such interesting ones and how are these differential across disease or other perturbations? And how can they be chained together to build a spatial human cell atlas?
+
+Here, I will present approaches from the lab touching upon a few of these points. In particular, I will show how our recent toolbox Squidpy and the related SpatialData format support standard steps in analysis and visualization of spatial molecular data. I will then discuss recent approaches towards multimodal classification, learning cell cell communication and extension towards morphometric representations under perturbations using generative models.
+            </p>  	
+		<strong>Speaker Bio:</strong>
+                <span>Fabian Theis is a pioneer in biomedical AI and machine learning, in particular in the context of single-cell biology. He focuses on preprocessing, visualizing, and modeling heterogeneities based on single-cell genomics providing methods and tools with a broad user-base.
+Fabian is head of the Institute of Computational Biology at Helmholtz Munich and full professor at the Technical University of Munich, holding the chair ‘Mathematical Modelling of Biological Systems’. Since 2018 he has been coordinator of the Munich School for Data Science and since 2019 director of the Helmholtz Artificial Intelligence Cooperation Unit (HelmholtzAI). He is involved and coordinates several relevant networks including the Single Cell Omics Network Germany.
+
+            <br>
+		</span>  
+	      </div>
 
             <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 	      <div>
@@ -124,25 +147,6 @@ We are harvesting similarities in image-based profiles to identify, at a single-
 		<span>Dr. Mahmood is an Associate Professor of Pathology at Harvard Medical School and the Division of Computational Pathology at the Brigham and Women's Hospital. He received his Ph.D. in Biomedical Imaging from the Okinawa Institute of Science and Technology, Japan and was a postdoctoral fellow at the department of biomedical engineering at Johns Hopkins University. His research interests include pathology image analysis, morphological feature, and biomarker discovery using data fusion and multimodal analysis. Dr. Mahmood is a full member of the Dana-Farber Cancer Institute / Harvard Cancer Center; an Associate Member of the Broad Institute of Harvard and MIT, and a member of the Harvard Bioinformatics and Integrative Genomics (BIG) faculty.</span>
 
 
-            <hr style="height:1px;border:none;border-top:1px solid #555555;" />
-            <div>
-
-<!--		<p>  <strong>Talk Title:</strong> Traditional and Deep Learning Models of Cellular Structure </p>
-	 		<strong>Start Time: </strong><span>13:20 PM CDT</span><br>	-->
-                <strong>Speaker:</strong>
-                <span>Fabian Theis, Professor, Technische Universität München. </span><strong></strong> <br>
-                <p><center>
-		<img class="img-responsive" alt="" src="./img/images/Fabian.jpg" width="200" height="230">
-		</center></p>
-	<!--	<strong> Abstract:</strong> A major challenge in computer vision applications in microscopy is creating accurate models of cell structures. Cells have a higher degree of stochasticity and a larger number of components than most subjects of computer vision applications, even higher than other natural objects like plants and animals, complicating use of both traditional and deep learning methods.  Most cellular components are distinct objects with defined boundaries that do not overlap.  Thus challenges include not only segmentation and scene parsing but also construction of generative models that are object-based.  Our work on this subject using traditional methods introduced the idea of constructing objects whose position within the cell was conditional upon other parts, such as the cell membranes, nuclear membranes and microtubules.  With the advent of deep learning and the creation by the Allen Institute of large 3D image collections in which particular organelles were fluorescently-labeled, a significant advance occurred through the creation of conditional autoencoder models for organelles.  A second advance occurred with using a U-net approach to make these models to all be conditional upon a common reference, unlabeled image, which allowed the relationships between different organelles to be at least partially inferred.  We have developed an alternative GAN-based approach and have evaluated how well both models preserve the expected property that organelles do not overlap.  We then developed a modified loss function that allows retraining of the models to minimize that overlap.  We have also developed approaches using our object-based modeling system to evaluate how well synthetic images capture object shape and spatial distribution.
-            </p>  	-->
-		<strong>Speaker Bio:</strong>
-                <span>Fabian Theis is a pioneer in biomedical AI and machine learning, in particular in the context of single-cell biology. He focuses on preprocessing, visualizing, and modeling heterogeneities based on single-cell genomics providing methods and tools with a broad user-base.
-Fabian is head of the Institute of Computational Biology at Helmholtz Munich and full professor at the Technical University of Munich, holding the chair ‘Mathematical Modelling of Biological Systems’. Since 2018 he has been coordinator of the Munich School for Data Science and since 2019 director of the Helmholtz Artificial Intelligence Cooperation Unit (HelmholtzAI). He is involved and coordinates several relevant networks including the Single Cell Omics Network Germany..
-
-            <br>
-		</span>  
-	      </div>
 
     	    <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 	    <div>
