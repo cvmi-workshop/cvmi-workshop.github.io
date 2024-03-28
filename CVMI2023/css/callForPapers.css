@@ -1,0 +1,12 @@
+.detailBoxCallForPapers {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.detailBoxCallForPapers p {
+    margin-bottom: 10px;
+}
+
+.detailBoxCallForPapers p:first-child {
+    margin-bottom: 15px;
+}
