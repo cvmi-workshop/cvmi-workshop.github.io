@@ -1,0 +1,34 @@
+Alexandr A.		Kalinin	akalinin@broadinstitute.org	Broad Institute of MIT and Harvard			3	3	100
+Arnav		Bhavsar	arnav@iitmandi.ac.in	IIT Mandi			3	3	100
+Dong		Yang	dongy@nvidia.com	NVIDIA Corporation			2	2	100
+Donglai		Wei	donglai@seas.harvard.edu	Harvard/SEAS			2	1	50
+Edward		Delp	ace@ecn.purdue.edu	Purdue University			2	2	100
+Gaurav		Mittal	gamit@microsoft.com	Microsoft			8	5	62
+Hang		Chang	hchang@lbl.gov	Lawrence Berkeley National Laboratory			4	4	100
+Hritam		Basak	hbasak@cs.stonybrook.edu	Stony Brook University			2	2	100
+Jamalia 		Sultana 	jsultana@cs.stonybrook.edu	Stony Brook University			2	1	50
+Jay		Patravali	jaypatravali@gmail.com	Microsoft			2	1	50
+Jianxu		Chen	jxchen.ustc@gmail.com	Leibniz-Institut für Analytische Wissenschaften – ISAS – e.V.			3	3	100
+Jignesh Chowdary		Gutta	jgutta@cs.stonybrook.edu	Stony Brook University			2	2	100
+Karthik		Nandakumar	nandakum@msu.edu	Michigan State University			3	0	0
+Kazuhiro		Hotta	kazuhotta@meijo-u.ac.jp	Meijo University			3	3	100
+Mohammad		Haft-Javaherian	haft@mit.edu	MIT & Harvard Medical School			0	0	0
+Nathan		Hotaling	nathan.hotaling@nih.gov	NIH			2	2	100
+Peter		Bajcsy	peter.bajcsy@nist.gov	NIST			3	3	100
+Raphaël		Marée	raphael.maree@uliege.be	University of Liège			3	3	100
+Richard	J	Chen	richen1939@gmail.com	Harvard University			2	0	0
+Rishi		Madhok	rishimadhok96@gmail.com	Microsoft			0	0	0
+Ryoma 		Bise	bise@ait.kyushu-u.ac.jp	Kyushu University			4	4	100
+Sang-Chul		Lee	sclee@inha.edu	"Inha University, South Korea"			3	3	100
+Sharmishtaa		Seshamani	sharmishtaas@alleninstitute.org	Allen Institute			3	3	100
+Sharon Xiaolei		Huang	suh972@psu.edu	The Pennsylvania State University			3	3	100
+Tong		Zhang	zhangt02@pcl.ac.cn	Peng Cheng Labortory			3	3	100
+Vedrana	A	Dahl	vand@dtu.dk	Technical University of Denmark			3	3	100
+Weidong		Cai	tom.cai@sydney.edu.au	University of Sydney			4	4	100
+Xubo		Song 	songx@ohsu.edu	Oregon Health and Science University			3	3	100
+Yang		Song	yang.song1@unsw.edu.au	University of New South Wales			4	4	100
+Yanye		Lu	yanye.lu@pku.edu.cn	Peking University			2	0	0
+Young Min		Shin	young@noul.kr	Noul Inc.			3	3	100
+Yu-Jhe		Li	jhel@adobe.com	Adobe			3	3	100
+Zhaozheng		Yin	zyin@cs.stonybrook.edu	Stony Brook University			0	0	0
+Jianan		Fan	jfan6480@uni.sydney.edu.au	University of Sydney

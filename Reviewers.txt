@@ -1,29 +1,31 @@
 Alexandr A.		Kalinin	akalinin@broadinstitute.org	Broad Institute of MIT and Harvard						
-Arnav		Bhavsar	arnav@iitmandi.ac.in	IIT Mandi			
+Arnav		Bhavsar	arnav@iitmandi.ac.in	IIT Mandi
 Dong		Yang	dongy@nvidia.com	NVIDIA Corporation			
 Donglai		Wei	donglai@seas.harvard.edu	Harvard/SEAS			
 Edward		Delp	ace@ecn.purdue.edu	Purdue University			
 Gaurav		Mittal	gamit@microsoft.com	Microsoft			
 Hang		Chang	hchang@lbl.gov	Lawrence Berkeley National Laboratory									
 Jianxu		Chen	jxchen.ustc@gmail.com	Leibniz-Institut für Analytische Wissenschaften – ISAS – e.V.			
-Karthik		Nandakumar	Karthik.Nandakumar@mbzuai.ac.ae	 Mohamed Bin Zayed University of Artificial Intelligence			
-Kazuhiro		Hotta	kazuhotta@meijo-u.ac.jp	Meijo University			
-Mohammad		Haft-Javaherian	haft@mit.edu	MIT & Harvard Medical School			
+Karthik		Nandakumar		Karthik.Nandakumar@mbzuai.ac.ae		Mohamed Bin Zayed University of Artificial Intelligence			
+Kazuhiro		Hotta		kazuhotta@meijo-u.ac.jp		Meijo University			
+Mohammad		Haft-Javaherian		haft@mit.edu		MIT & Harvard Medical School			
 Nathan		Hotaling	nathan.hotaling@nih.gov	NIH			
 Neel		Dey	nsd291@nyu.edu	MIT			
 Peter		Bajcsy	peter.bajcsy@nist.gov	NIST			
 Raphaël		Marée	raphael.maree@uliege.be	University of Liège			
 Richard	J	Chen	richen1939@gmail.com	Harvard University			
 Ryoma 		Bise	bise@ait.kyushu-u.ac.jp	Kyushu University			
-Sang-Chul		Lee	sclee@inha.edu	"Inha University, South Korea"			
-Sharmishtaa		Seshamani	sharmishtaas@alleninstitute.org	Allen Institute			
-Sharon Xiaolei		Huang	suh972@psu.edu	The Pennsylvania State University						
+Sang-Chul		Lee		sclee@inha.edu		"Inha University, South Korea"			
+Sharmishtaa		Seshamani		sharmishtaas@alleninstitute.org		Allen Institute			
+Sharon Xiaolei		Huang		suh972@psu.edu		The Pennsylvania State University
 Tong		Zhang	zhangt02@pcl.ac.cn	Peng Cheng Labortory			
 Vedrana	A	Dahl	vand@dtu.dk	Technical University of Denmark			
 Weidong		Cai	tom.cai@sydney.edu.au	University of Sydney			
-Wing Chi		Chan	wing.chi.chan@polyu.edu.hk	Hong Kong Polytechnique University			
-Xubo		Song 	songx@ohsu.edu	Oregon Health and Science University			
+Xubo		Song 	songx@ohsu.edu	Oregon Health and Science University
 Yang		Song	yang.song1@unsw.edu.au	University of New South Wales			
-Yanye		Lu	yanye.lu@pku.edu.cn	Peking University			
-Young Min		Shin	young@noul.kr	Noul Inc.			
-Zhaozheng		Yin	zyin@cs.stonybrook.edu	Stony Brook University			
+Young Min		Shin		young@noul.kr		Noul Inc.			
+Zhaozheng		Yin		zyin@cs.stonybrook.edu		Stony Brook University			
+Jignesh		Gutta	jgutta@cs.stonybrook.edu	Stony Brook University
+Hritam		Basak	hbasak@cs.stonybrook.edu	Stony Brook University
+Jamalia		Sultana	jsultana@cs.stonybrook.edu	Stony Brook University
+Jianan		Fan	jfan6480@uni.sydney.edu.au	University of Sydney
