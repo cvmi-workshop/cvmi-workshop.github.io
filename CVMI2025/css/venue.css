@@ -1,0 +1,13 @@
+.detailBoxVenue p {
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.detailBoxVenue p a {
+    color: #ff6360;
+    text-decoration: none;
+}
+
+.detailBoxVenue p a:hover {
+    color: red;
+}

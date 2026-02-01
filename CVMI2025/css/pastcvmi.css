@@ -1,0 +1,13 @@
+.detailBoxPast p {
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.detailBoxPast p a {
+    color: #ff6360;
+    text-decoration: none;
+}
+
+.detailBoxPast p a:hover {
+    color: red;
+}

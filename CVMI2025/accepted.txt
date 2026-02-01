@@ -1,0 +1,13 @@
+5; Unsupervised Microscopy Video Denoising; Mary D Aiyetigbo, Alexander K Korte, Ethan M Anderson, Reda M Chalhoub, Peter Kalivas, Feng Luo, Nianyi Li
+6; Discovering interpretable models of scientific image data with deep learning; Christopher J Soelistyo, Alan R Lowe
+7; Vim4Path: Self-Supervised State Space Modeling for Histopathology Images; Ali Nasiri-Sarvi, Vincent Quoc-Huy Trinh, Hassan Rivaz, Mahdi S Hosseini
+8; Refining Biologically Inconsistent Segmentation Masks with Masked Autoencoders; Alexander Sauer, Yuan Tian, Joerg Bewersdorf, Jens Rittscher
+9; Histopathological Image Classification with Cell Morphology Aware Deep Neural Networks; Andrey Ignatov, Josephine Yates, Valentina Boeva
+10; NOISe: Nuclei-Aware Osteoclast Instance Segmentation for Mouse-to-Human Domain Transfer; Sai Kumar Reddy Manne, Brendan F Martin, Tyler Roy, Ryan Neilson, Rebecca Peters, Meghana Chillara, Christine W Lary, Katherine J Motyl, Michael Wan
+17; Low-Resolution-Only Microscopy Super-Resolution Models Generalizing to Non-Periodicities at Atomic Scale; Björn Möller, Zhengyang Li, Markus Etzkorn, Tim Fingscheidt
+18; Uncertainty Estimation for Tumor Prediction with Unlabeled Data; Juyoung Yun, Shahira Abousamra, CHEN LI, Rajarsi Gupta, Tahsin Kurc, Dimitris   Samaras, Alison L Van Dyke, Joel Saltz, Chao Chen
+20; Triage of 3D pathology data via 2.5D multiple-instance learning to guide pathologist assessments; Gan Gao, Andrew Song, Fiona Wang, David R Brenes, Rui Wang, Sarah Chow, Kevin W Bishop, Lawrence D True, Faisal Mahmood, Jonathan T.C. Liu
+23; GRAPE: GANs as Robust Adversarial Perturbation Encoders; Mahtab Bigverdi, Burkhard Hoeckendorf, Heming Yao, Philipp B Hanslovsky, Romain Lopez, David Richmond
+27; Super-resolution of biomedical volumes with 2D supervision; Cheng Jiang, Alexander Gedeon, Yiwei Lyu, Eric Landgraf, Yufeng Zhang, Xinhai Hou, Akhil Kondepudi, Asadur Z Chowdury, Honglak Lee, Todd C Hollon
+28; Weakly Supervised Set-Consistency Learning Improves Morphological Profiling of Single-Cell Images; Heming Yao, Philipp B Hanslovsky, Jan-Christian Huetter, Burkhard Hoeckendorf, David Richmond
+29; Grad-CAMO: Learning Interpretable Single-Cell Morphological Profiles from 3D Cell Painting Images; Vivek Gopalakrishnan, Jingzhe Ma, Zhiyong Xie
